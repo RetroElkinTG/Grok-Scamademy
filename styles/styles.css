@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+
+.ff-app-content {
+
+}
+
+.header{
+    /*background-color: #5da0df;*/
+    border-bottom: 1px solid rgb(82, 82, 82);
+}
+
+.navbar{
+    border-top: 1px solid rgb(82, 82, 82);
+}
+
+.bankscam{
+    background-color: #1d63a5;
+    color: white;
+}
+
+.newscam{
+    width: 150px;
+    height: 120px;
+    margin-left: 10px;
+}
+
+.scrollmenu{
+    overflow:auto;
+    white-space: nowrap;
+}
+
+.urbanist{
+    font-family: 'Urbanist', sans-serif;
+}
+
+.primarycolour{
+    background-color: #1d63a5;
+}
+
+.secondarycolour{
+    background-color: #FFFFFF;
+}
+
+.border-top{
+    border-top: 100px solid rgb(82, 82, 82);
+}
+
+.rightside{
+    position: absolute;
+    right: 10px;
+}
